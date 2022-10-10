@@ -1,5 +1,5 @@
 % Fourier domain Huffman coding with cost per bits
-% Name: Zhenhuan Sun
+% Author: Zhenhuan Sun
 
 %%
 clear
