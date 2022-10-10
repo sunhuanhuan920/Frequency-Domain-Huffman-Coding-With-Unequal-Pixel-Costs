@@ -1,6 +1,5 @@
 % Fourier domain Huffman coding with cost per bits
 % Name: Zhenhuan Sun
-% Student ID: 20735233
 
 %%
 clear
